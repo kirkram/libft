@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_atoi.c                                          :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: klukiano@student.hive.fi <klukiano>        +#+  +:+       +#+        */
+/*   By: klukiano <klukiano@student.hive.fi>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/11/03 14:30:59 by klukiano@st       #+#    #+#             */
-/*   Updated: 2023/11/13 16:16:07 by klukiano@st      ###   ########.fr       */
+/*   Updated: 2024/01/08 10:55:16 by klukiano         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -29,8 +29,10 @@ int	ft_atoi(const char *str)
 	while (*str >= '0' && *str <= '9')
 	{
 		num = num * 10 + *str - 48;
-		if (num < 0)
+		if (num < 0 || num > 2147483647)
 		{
+			if (num == 2147483648 && sign < 0)
+				return (num * sign);
 			if (sign > 0)
 				return (-1);
 			return (0);
