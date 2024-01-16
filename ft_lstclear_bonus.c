@@ -1,35 +1,28 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   ft_calloc.c                                        :+:      :+:    :+:   */
+/*   ft_lstclear_bonus.c                                :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: klukiano <klukiano@student.hive.fi>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2023/11/03 14:31:22 by klukiano          #+#    #+#             */
-/*   Updated: 2024/01/16 16:12:28 by klukiano         ###   ########.fr       */
+/*   Created: 2023/12/11 13:53:23 by klukiano          #+#    #+#             */
+/*   Updated: 2023/12/11 14:48:55 by klukiano         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
-#include <stdlib.h>
-#include <limits.h>
-#include <stdint.h>
 
-void	*ft_calloc(size_t count, size_t size)
+void	ft_lstclear(t_list **lst, void (*del)(void*))
 {
-	void	*ptr;
-	size_t	buf_size;
+	t_list	*ptr;
 
-	buf_size = SIZE_MAX;
-	if (count != 0)
+	if (lst)
 	{
-		if (buf_size / count < size)
-			return (NULL);
+		while (*lst)
+		{
+			ptr = (*lst)->next;
+			ft_lstdelone(*lst, del);
+			(*lst) = ptr;
+		}
 	}
-	buf_size = count * size;
-	ptr = malloc(buf_size);
-	if (!ptr)
-		return (NULL);
-	ft_bzero (ptr, buf_size);
-	return (ptr);
 }
