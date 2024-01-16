@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_toupper.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: klukiano@student.hive.fi <klukiano>        +#+  +:+       +#+        */
+/*   By: klukiano <klukiano@student.hive.fi>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2023/11/03 12:32:47 by klukiano@st       #+#    #+#             */
-/*   Updated: 2023/11/03 15:22:39 by klukiano@st      ###   ########.fr       */
+/*   Created: 2023/11/03 12:32:47 by klukiano          #+#    #+#             */
+/*   Updated: 2024/01/16 16:13:14 by klukiano         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

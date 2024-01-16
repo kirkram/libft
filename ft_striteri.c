@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_striteri.c                                      :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: klukiano@student.hive.fi <klukiano>        +#+  +:+       +#+        */
+/*   By: klukiano <klukiano@student.hive.fi>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2023/11/03 15:10:14 by klukiano@st       #+#    #+#             */
-/*   Updated: 2023/11/07 17:20:19 by klukiano@st      ###   ########.fr       */
+/*   Created: 2023/11/03 15:10:14 by klukiano          #+#    #+#             */
+/*   Updated: 2024/01/16 16:14:04 by klukiano         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_strmapi.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: klukiano@student.hive.fi <klukiano>        +#+  +:+       +#+        */
+/*   By: klukiano <klukiano@student.hive.fi>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2023/11/03 15:08:54 by klukiano@st       #+#    #+#             */
-/*   Updated: 2023/11/03 15:23:19 by klukiano@st      ###   ########.fr       */
+/*   Created: 2023/11/03 15:08:54 by klukiano          #+#    #+#             */
+/*   Updated: 2024/01/16 16:13:39 by klukiano         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

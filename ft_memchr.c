@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_memchr.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: klukiano@student.hive.fi <klukiano>        +#+  +:+       +#+        */
+/*   By: klukiano <klukiano@student.hive.fi>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2023/11/03 14:28:46 by klukiano@st       #+#    #+#             */
-/*   Updated: 2023/11/03 15:24:00 by klukiano@st      ###   ########.fr       */
+/*   Created: 2023/11/03 14:28:46 by klukiano          #+#    #+#             */
+/*   Updated: 2024/01/16 16:14:49 by klukiano         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

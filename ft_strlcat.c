@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_strlcat.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: klukiano@student.hive.fi <klukiano>        +#+  +:+       +#+        */
+/*   By: klukiano <klukiano@student.hive.fi>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2023/11/03 14:12:11 by klukiano@st       #+#    #+#             */
-/*   Updated: 2023/11/07 10:36:32 by klukiano@st      ###   ########.fr       */
+/*   Created: 2023/11/03 14:12:11 by klukiano          #+#    #+#             */
+/*   Updated: 2024/01/16 16:13:54 by klukiano         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

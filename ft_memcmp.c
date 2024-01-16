@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_memcmp.c                                        :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: klukiano@student.hive.fi <klukiano>        +#+  +:+       +#+        */
+/*   By: klukiano <klukiano@student.hive.fi>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2023/11/03 14:29:34 by klukiano@st       #+#    #+#             */
-/*   Updated: 2023/11/03 17:55:10 by klukiano         ###   ########.fr       */
+/*   Created: 2023/11/03 14:29:34 by klukiano          #+#    #+#             */
+/*   Updated: 2024/01/16 16:14:45 by klukiano         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

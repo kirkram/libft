@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_strlcpy.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: klukiano@student.hive.fi <klukiano>        +#+  +:+       +#+        */
+/*   By: klukiano <klukiano@student.hive.fi>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2023/11/03 14:11:24 by klukiano@st       #+#    #+#             */
-/*   Updated: 2023/11/03 15:23:29 by klukiano@st      ###   ########.fr       */
+/*   Created: 2023/11/03 14:11:24 by klukiano          #+#    #+#             */
+/*   Updated: 2024/01/16 16:13:49 by klukiano         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 

@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   ft_strncmp.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: klukiano@student.hive.fi <klukiano>        +#+  +:+       +#+        */
+/*   By: klukiano <klukiano@student.hive.fi>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2023/11/03 14:28:26 by klukiano@st       #+#    #+#             */
-/*   Updated: 2023/11/03 15:23:16 by klukiano@st      ###   ########.fr       */
+/*   Created: 2023/11/03 14:28:26 by klukiano          #+#    #+#             */
+/*   Updated: 2024/01/16 16:13:35 by klukiano         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
