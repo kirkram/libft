@@ -6,12 +6,11 @@
 /*   By: klukiano <klukiano@student.hive.fi>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/11/03 14:30:59 by klukiano          #+#    #+#             */
-/*   Updated: 2024/01/16 16:15:50 by klukiano         ###   ########.fr       */
+/*   Updated: 2024/05/03 15:46:26 by klukiano         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include "libft.h"
-#include <stdlib.h>
 
 int	ft_atoi(const char *str)
 {
